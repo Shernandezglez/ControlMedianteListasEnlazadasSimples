@@ -1,0 +1,10 @@
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\bin\Debug\ControlMeidanteListasEnlazadas.exe.config
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\bin\Debug\ControlMeidanteListasEnlazadas.exe
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\bin\Debug\ControlMeidanteListasEnlazadas.pdb
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\obj\Debug\ControlMeidanteListasEnlazadas.Form1.resources
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\obj\Debug\ControlMeidanteListasEnlazadas.Properties.Resources.resources
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\obj\Debug\ControlMeidanteListasEnlazadas.csproj.GenerateResource.Cache
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\obj\Debug\ControlMeidanteListasEnlazadas.csproj.CoreCompileInputs.cache
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\obj\Debug\ControlMeidanteListasEnlazadas.exe
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\obj\Debug\ControlMeidanteListasEnlazadas.pdb
+c:\users\askii.desktop-d39elps\source\repos\ControlMeidanteListasEnlazadas\ControlMeidanteListasEnlazadas\obj\Debug\ControlMeidanteListasEnlazadas.csprojResolveAssemblyReference.cache
